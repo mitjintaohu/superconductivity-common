@@ -1,12 +1,10 @@
 # Welcome to Superconductivity Commons
 
-An open community for applied superconductivity research.
+Superconductivity Commons
 
 ## Explore
 
-- Research Areas
 - Universities & Laboratories
-- Researchers
 - Career Opportunities
 
 ## About This Project
