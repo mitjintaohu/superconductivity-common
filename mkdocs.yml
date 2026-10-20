@@ -12,7 +12,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Research Areas: research-areas.md
   - Universities & Labs: universities.md
-  - Researchers: researchers.md
   - About: about.md
