@@ -6,14 +6,28 @@ theme:
   language: en
   palette:
     primary: teal
+    accent: cyan
   features:
-    - navigation.indexes
-    - toc.follow
-    - toc.integrat
+    - navigation.tabs
+    - navigation.tabs.sticky
     
 plugins:
   - search
 
 nav:
   - Home: index.md
-  - Universities & Labs: universities.md
+
+  - USA:
+      - Overview: institutions/usa/index.md
+      - MIT: institutions/usa/mit.md
+      
+  - UK:
+      - Overview: institutions/uk/index.md
+      - Cambridge: institutions/uk/cambridge.md
+
+  - Europe:
+      - Overview: institutions/europe/index.md
+
+  - China:
+      - Overview: institutions/china/index.md
+      - IEECAS: institutions/china/ieecas.md
