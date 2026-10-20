@@ -13,4 +13,3 @@ plugins:
 nav:
   - Home: index.md
   - Universities & Labs: universities.md
-  - About: about.md
