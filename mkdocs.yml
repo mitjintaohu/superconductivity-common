@@ -6,6 +6,10 @@ theme:
   language: en
   palette:
     primary: teal
+  features:
+    - navigation.indexes
+    - toc.follow
+    - toc.integrat
     
 plugins:
   - search
