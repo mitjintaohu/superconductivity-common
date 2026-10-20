@@ -1,0 +1,16 @@
+site_name: Superconductivity Commons
+site_description: Superconductivity Commons
+
+theme:
+  name: material
+  language: en
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Research Areas: research-areas.md
+  - Universities & Labs: universities.md
+  - Researchers: researchers.md
+  - About: about.md
