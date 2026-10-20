@@ -4,7 +4,7 @@
 
 ## Tim Coombs
 
-PhD@Cambridge, Archie Campbel的学生. 培养了很多学术在各大高校任职.
+PhD@Cambridge, Archie Campbel的学生. 培养了很多学生在各大高校任职.
 
 ### Research Interests
 Flux Pump, AC Loss, Superconducting Machines, HTS Magnet.
