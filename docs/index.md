@@ -1,15 +1,7 @@
-# Welcome to Superconductivity Commons
-
-Superconductivity Commons
-
-## Explore
-
-- [Universities & Laboratories](professors/UCambridge.md)
-- Career Opportunities
+# Welcome to Superconductivity Common
 
 ## About This Project
 
-Superconductivity Commons aims to connect researchers,
-students, and laboratories around the world.
+Superconductivity Common aims to connect researchers, engineers, and students around the world.
 
 This project is currently under development.
