@@ -4,7 +4,7 @@ Superconductivity Commons
 
 ## Explore
 
-- [Universities & Laboratories](UCambridge.md)
+- [Universities & Laboratories](professors/UCambridge.md)
 - Career Opportunities
 
 ## About This Project
