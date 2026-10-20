@@ -4,7 +4,9 @@ site_description: Superconductivity Commons
 theme:
   name: material
   language: en
-
+palette:
+    primary: teal
+    
 plugins:
   - search
 
